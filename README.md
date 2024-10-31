@@ -5,7 +5,7 @@
 真寻工具箱是一款用Python编写的音视频处理软件。基于FluentUI设计，为FFmpeg提供一个简洁易用的GUI，方便用户处理音视频。
 
 ## 下载安装
-从Github Release下载：https://github.com/Eanya-Tonic/MihiroToolbox/releases
+从Github Release下载：https://github.com/Eanya-Tonic/MahiroToolbox/releases
 <br>
 从百度网盘下载：https://pan.baidu.com/s/15DME9GT99bBgeSaEew-2dA?pwd=wbdt 提取码：wbdt
 
@@ -21,11 +21,11 @@
 <br>
 1.压制视频时，现在可以选择”复制音频“选项
 <br>
-**特别鸣谢： [#2](https://github.com/Eanya-Tonic/MihiroToolbox/issues/2) [#4](https://github.com/Eanya-Tonic/MihiroToolbox/issues/4)**
+**特别鸣谢： [#2](https://github.com/Eanya-Tonic/MahiroToolbox/issues/2) [#4](https://github.com/Eanya-Tonic/MahiroToolbox/issues/4)**
 <br>
 2.压制视频并选择音频模式为”压制音频“时，可以自定义音频码率
 <br>
-**特别鸣谢： [#2](https://github.com/Eanya-Tonic/MihiroToolbox/issues/2)**
+**特别鸣谢： [#2](https://github.com/Eanya-Tonic/MahiroToolbox/issues/2)**
 <br>
 _v1.1.2是一个小版本更新，不包含新功能，仅对之前的功能进行完善。_
 <br>
@@ -55,7 +55,7 @@ _推迟：_ 抽取、AVS功能预计将稍晚再做适配。
 
 ## 参考
 
-![未标题-spalsh](https://github.com/Eanya-Tonic/MihiroToolbox/assets/74545593/a9281e10-dc24-42d7-9547-37d2095a6240#pic_center)
+![未标题-spalsh](https://github.com/Eanya-Tonic/MahiroToolbox/assets/74545593/a9281e10-dc24-42d7-9547-37d2095a6240#pic_center)
 
 灵感来源于媒体领域转码神器——小丸工具箱；在使用中由于小丸工具箱的编码并没有加入硬件加速解码的选项，仅使用软解的效率并不高；所以自己编写了一个带有硬件加速选项的媒体工具箱，提供软解、Nvidia、AMD、Intel四种选项可供按需，节约在转码时花费的时间。
 > **Note**
